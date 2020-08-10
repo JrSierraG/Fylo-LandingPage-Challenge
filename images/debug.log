@@ -1,0 +1,5 @@
+[0720/231929.400:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0720/231937.154:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0720/231942.651:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0720/231942.741:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0720/231948.042:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)

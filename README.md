@@ -3,7 +3,7 @@ FrontendMentor Challenge for practice Flexbox
 https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5
 
 ## View
-https://jrsierrag.github.io/Fylo-LandingPage-Challenge/
+https://jrsierrago.github.io/Fylo-LandingPage-Challenge/
 
 
 ## Layout
